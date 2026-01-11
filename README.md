@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍🎓 About Me
-I am a Bioinformatics Engineering student at Bangladesh Agricultural University (BAU), expected to graduate in 2027. My studies emphasize the application of computer science principles and techniques to solve complex biological problems, with a strong focus on programming, problem solving, data structures and algorithms, machine learning. I am passionate about leveraging this interdisciplinary expertise to drive innovation and technological advancements in bioinformatics and computational biology.
+I am a Bioinformatics Engineering student at Bangladesh Agricultural University (BAU), expected to graduate in 2027. My studies emphasize the application of computer science principles and techniques to solve complex biological problems, with a strong focus on programming, problem solving, data structures and algorithms(DSA), Ai & Ml. I am passionate about leveraging this interdisciplinary expertise to drive innovation and technological advancements in bioinformatics and computational biology.
 
 <!----------------------
 I'm currently exploring:
@@ -50,14 +50,16 @@ Here are some of the languages and tools I work with:
 
 <p align="center">
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="50" alt="Python" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="50" alt="Linux" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="50" alt="MySQL" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="50" alt="MySQL" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
+  <img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" height="50" alt="MySQL" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="50" alt="Django" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="50" alt="Git" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/1d19b0321539fd04f6ab0b0a5c1aa62c511561fb0f9382a28a143b3128c2369f/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" height="50" alt="BASH" style="margin: 0 40.5px;" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="50" alt="Git" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="50" alt="Linux" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
+  <img src="https://camo.githubusercontent.com/c167df03cd6050ed68750bfae6e7b0a98245c7ff2fa1f057a5fcbe397047e5a8/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" height="50" alt="BASH" style="margin: 0 40.5px;" />
 </p>
 
 ---
@@ -89,11 +91,12 @@ My key interests include:
 
 ### 🌐 Portfolio
 
-Explore my personal website and portfolio here:
+Explore my portfolio here:
 <a href="https://t-fahim.github.io" target="_blank"><strong>t-fahim.github.io</strong></a>
 
----
 
+<!-----------------------------------
+---
 ### 📈 GitHub Statistics
 
 <p align="center">
@@ -105,7 +108,7 @@ Explore my personal website and portfolio here:
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tamimcodes&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  />
   </a>
 </p>
-
+----------------------------------------------->
 
 ---
 
