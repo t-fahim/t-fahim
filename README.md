@@ -20,7 +20,7 @@ I'm currently exploring:
 ------------------------------>
 <ul>
 
-
+<!-----------------------------------------------------------------------
 <li>
   <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" style="height: 20px;" />
   LeetCode: <a href="https://leetcode.com/u/t_amim/" target="_blank">t_amim</a>
@@ -30,7 +30,7 @@ I'm currently exploring:
   <img src="https://img.icons8.com/?size=100&id=YSy0lU4Y0X4z&format=png&color=000000" style="height: 20px;" />
   Codeforces: <a href="https://codeforces.com/profile/t-fahim" target="_blank">t-fahim</a>
 </li>
-
+------------------------------------------>
 <li>
   <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="height: 20px;" />
   LinkedIn: <a href="https://www.linkedin.com/in/tamim-fahim/" target="_blank">MD. TAMIM AHMED FAHIM</a>
@@ -38,7 +38,7 @@ I'm currently exploring:
 
 <li>
   <img src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" style="height: 20px;" />
-  Gmail: <a href="mailto:t.a.fahim@outlook.com" target="_blank">t.a.fahim@outlook.com</a>
+  Mail: <a href="mailto:t.a.fahim@outlook.com" target="_blank">t.a.fahim@outlook.com</a>
 </li>
 </ul>
 
@@ -54,7 +54,6 @@ Here are some of the languages and tools I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="50" alt="MySQL" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" height="50" alt="MySQL" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="50" alt="Django" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="50" alt="Git" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
@@ -84,7 +83,6 @@ My key interests include:
 * **Algorithms and Problem Solving**
 * **Backend Development**
 * **Bioinformatics & Computational Biology**
-* **Drug Design**
 * **Data Science & Machine Learning**
 
 ---
