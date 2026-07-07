@@ -44,22 +44,77 @@ I'm currently exploring:
 
 ---
 
-### 💻 Languages & Tools
+### Tech Stack
 
-Here are some of the languages and tools I work with:
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">ML / AI</th>
+      <th align="center">DevOps / Tools</th>
+      <th align="center">Languages</th>
+      <th align="center">Operating Systems</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/pytorch" width="40" alt="PyTorch"/>
+        <img src="https://cdn.simpleicons.org/tensorflow" width="40" alt="TensorFlow"/>
+        <img src="https://cdn.simpleicons.org/scikitlearn" width="40" alt="Scikit-learn"/>
+        <img src="https://cdn.simpleicons.org/numpy" width="40" alt="NumPy"/>
+        <img src="https://cdn.simpleicons.org/pandas" width="40" alt="Pandas"/>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/docker" width="40" alt="Docker"/>
+        <img src="https://cdn.simpleicons.org/git" width="40" alt="Git"/>
+        <img src="https://cdn.simpleicons.org/postman" width="40" alt="Postman"/>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+        <img src="https://cdn.simpleicons.org/cplusplus" width="40" alt="C++"/>
+        <img src="https://cdn.simpleicons.org/c" width="40" alt="C"/>
+        <img src="https://cdn.simpleicons.org/gnubash" width="40" alt="Bash"/>
+      </td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/ubuntu" width="40" alt="Ubuntu"/>
+        <img src="https://cdn.simpleicons.org/fedora" width="40" alt="Fedora"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<p align="center">
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="50" alt="Python" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="50" alt="MySQL" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" height="50" alt="Django" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="50" alt="Git" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="50" alt="Linux" style="margin: 0 40.5px;" /> &nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/c167df03cd6050ed68750bfae6e7b0a98245c7ff2fa1f057a5fcbe397047e5a8/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" height="50" alt="BASH" style="margin: 0 40.5px;" />
-</p>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Web / Frontend</th>
+      <th align="center">Backend / Frameworks</th>
+      <th align="center">Databases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -114,14 +169,11 @@ Explore my portfolio here:
 
 Let's connect! You can find me on:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tamim-fahim/" target="_blank" >
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png" alt="LinkedIn" style="height: 40px;"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:t.a.fahim@outlook.com" target="_blank" >
-    <img src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" alt="Outlook" style="height: 40px;"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p>
+<table>
+  <tr>
+    <td><a href="https://github.com/t-fahim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a></td>
+    <td><a href="https://www.kaggle.com/tamimfahim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/tamim-fahim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
