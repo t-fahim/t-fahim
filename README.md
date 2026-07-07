@@ -1,11 +1,31 @@
-<h1 align="center">Hi 👋, I'm Fahim</h1>
-<h3 align="center">A passionate programmer and Bioinformatics Engineering student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamimcodes&label=Profile%20views&color=brightgreen&style=flat&abbreviated=true" alt="Profile Views" />
-</p>
+```text
 
----
+███████╗ █████╗ ██╗  ██╗██╗███╗   ███╗
+██╔════╝██╔══██╗██║  ██║██║████╗ ████║
+█████╗  ███████║███████║██║██╔████╔██║
+██╔══╝  ██╔══██║██╔══██║██║██║╚██╔╝██║
+██║     ██║  ██║██║  ██║██║██║ ╚═╝ ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
+
+```
+
+</div>
+
+```text
+ > whoami                                                                   
+    MD. TAMIM AHMED FAHIM                                                    
+                                                                            
+ > role                                                                     
+    Bioinformatics Engineering Student                                       
+                                                                            
+ > interests                                                                
+    Programming • Machine Learning • Bioinformatics • Linux • Open Source               
+                                                                            
+ > status                                                                   
+    Learning, building, and contributing to projects at the intersection of AI, Bioinformatics, and Backend Development...                  │
+```
 
 ### 👨‍🎓 About Me
 I am a Bioinformatics Engineering student at Bangladesh Agricultural University (BAU), expected to graduate in 2027. My studies emphasize the application of computer science principles and techniques to solve complex biological problems, with a strong focus on programming, problem solving, data structures and algorithms(DSA), Ai & Ml. I am passionate about leveraging this interdisciplinary expertise to drive innovation and technological advancements in bioinformatics and computational biology.
