@@ -1,30 +1,21 @@
-<div align="center">
-
-```text
-
-███████╗ █████╗ ██╗  ██╗██╗███╗   ███╗
-██╔════╝██╔══██╗██║  ██║██║████╗ ████║
-█████╗  ███████║███████║██║██╔████╔██║
-██╔══╝  ██╔══██║██╔══██║██║██║╚██╔╝██║
-██║     ██║  ██║██║  ██║██║██║ ╚═╝ ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
-
-```
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/dark-banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/light-banner.png">
+  <img alt="Project Logo" src="images/light-banner.png">
+</picture>
 
 ```text
  > whoami                                                                   
-    MD. TAMIM AHMED FAHIM                                                    
+    MD.TAMIM AHMED FAHIM                                                    
                                                                             
  > role                                                                     
     Bioinformatics Engineering Student                                       
                                                                             
  > interests                                                                
-    Programming • Machine Learning • Bioinformatics • Linux • Open Source               
+    Bioinformatics • Programming • Machine Learning • Linux • Open Source               
                                                                             
  > status                                                                   
-    Learning, building, and contributing to projects at the intersection of AI, Bioinformatics, and Backend Development...                  │
+    Learning, building, and contributing to projects at the intersection of AI, Bioinformatics, and Backend Development...             
 ```
 
 ### 👨‍🎓 About Me
