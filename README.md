@@ -57,6 +57,11 @@ I'm currently exploring:
 </li>
 
 <li>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new" style="height: 20px;" />
+  Mail: <a href="mailto:fahim.bioinfo@gmail.com" target="_blank">fahim.bioinfo@gmail.com</a>
+</li>
+
+<li>
   <img src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" style="height: 20px;" />
   Mail: <a href="mailto:t.a.fahim@outlook.com" target="_blank">t.a.fahim@outlook.com</a>
 </li>
