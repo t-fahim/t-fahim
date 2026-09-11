@@ -148,12 +148,10 @@ Here are a few projects from my repositories:
 ### 🧠 Interests
 
 My key interests include:
-
-* **Algorithms and Problem Solving**
-* **Backend Development**
 * **Bioinformatics & Computational Biology**
 * **Data Science & Machine Learning**
-
+* **Algorithms and Problem Solving**
+* **Backend Development**
 ---
 
 ### 🌐 Portfolio
