@@ -13,9 +13,6 @@
                                                                             
  > interests                                                                
     Bioinformatics • Programming • Machine Learning • Linux • Open Source               
-                                                                            
- > status                                                                   
-    Learning, building, and contributing to projects at the intersection of AI, Bioinformatics, and Backend Development...
 ```
 
 ### 👨‍🎓 About Me
